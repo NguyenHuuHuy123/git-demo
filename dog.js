@@ -1,5 +1,5 @@
 function dog() {
     console.log("con cho");
-    //DOng 1
+    //DOng 11
     //Dong 2
 }
