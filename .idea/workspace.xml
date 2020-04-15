@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="703ecbb9-dfa8-43fb-92ab-d3738b10937a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/file draft.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,7 +24,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../HTML/README.md" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../HTML" />
     <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
   </component>
   <component name="SvnConfiguration">
@@ -40,7 +38,8 @@
       <option name="presentableId" value="Default" />
       <updated>1586871444501</updated>
       <workItem from="1586871446068" duration="677000" />
-      <workItem from="1586882064412" duration="115000" />
+      <workItem from="1586882064412" duration="1027000" />
+      <workItem from="1586954104559" duration="631000" />
     </task>
     <servers />
   </component>
@@ -48,10 +47,10 @@
     <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="499" y="154" width="424" height="484" key="FileChooserDialogImpl" timestamp="1586873124545">
+    <state x="499" y="154" width="424" height="484" key="FileChooserDialogImpl" timestamp="1586954890666">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state x="499" y="154" width="424" height="484" key="FileChooserDialogImpl/67.27.1299.741@67.27.1299.741" timestamp="1586873124545" />
+    <state x="499" y="154" width="424" height="484" key="FileChooserDialogImpl/67.27.1299.741@67.27.1299.741" timestamp="1586954890666" />
     <state x="205" y="31" key="SettingsEditor" timestamp="1586871451554">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
